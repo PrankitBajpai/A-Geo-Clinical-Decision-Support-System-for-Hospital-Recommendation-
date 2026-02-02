@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+python-dotenv
+requests
+torch
+geopy
+sentence-transformers
+transformers           
+protobuf
